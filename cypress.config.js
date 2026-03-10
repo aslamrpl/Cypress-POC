@@ -15,9 +15,6 @@ module.exports = defineConfig({
     requestTimeout: 45000,
 
     env: {
-      //baseUrl: "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
-      //baseURL: process.env.YAHOO_URL,
-
     }
   },
 });
